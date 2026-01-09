@@ -113,3 +113,10 @@ DAFTAR TASK
 ==================================================
 Total: 3 task
 ```
+## 🎯 **Kesimpulan**
+
+Program **To-Do List Manager** ini telah berhasil mengimplementasikan semua konsep yang dipelajari dalam mata kuliah Bahasa Pemrograman, khususnya pada pertemuan 11 (Pemrograman Modular/Fungsi) dan 12 (Python OOP). Dengan struktur **Model-View-Controller (MVC)** yang jelas, program menunjukkan pemahaman mendalam tentang **modularitas** dimana setiap komponen memiliki tanggung jawab terpisah: model.py sebagai data layer, view.py sebagai presentation layer, dan controller.py sebagai business logic layer. 
+
+Implementasi **Object-Oriented Programming** tercermin dari penggunaan class, object, constructor, method, dan encapsulation. **Exception handling** dengan try-except block memastikan validasi input yang robust, sementara **table view** memberikan user experience yang baik dengan format output yang terstruktur. Program ini tidak hanya memenuhi semua requirement teknis UAS, tetapi juga menerapkan prinsip-prinsip clean code dan software engineering yang baik seperti separation of concerns, DRY (Don't Repeat Yourself), dan user-centered design.
+
+Melalui project ini, terlihat kemampuan dalam **mengintegrasikan teori ke praktik**, mulai dari konsep dasar OOP hingga implementasi aplikasi fungsional yang interaktif. Program siap untuk dikembangkan lebih lanjut dengan tambahan fitur seperti penyimpanan database, antarmuka GUI, atau integrasi dengan API, menunjukkan skalabilitas yang baik dari arsitektur yang digunakan.
