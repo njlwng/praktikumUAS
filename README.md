@@ -8,7 +8,7 @@
 - **Universitas:** Universitas Pelita Bangsa
 
 ## 📹 Video Presentasi
-🎬 **Demo Program:** 
+🎬 **Demo Program:** https://youtu.be/1pISwuFH5Sc?si=BbgCUO3fCgBtCbh6
 
 ## 🎯 Deskripsi Singkat
 Program **To-Do List Manager** sederhana berbasis Python yang mengimplementasikan:
